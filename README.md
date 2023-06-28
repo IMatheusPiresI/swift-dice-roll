@@ -7,6 +7,8 @@ Project repository **Dice-Roll** development with **Swift, UIKit, Constraints, V
 <h3 id="acessar-projeto">📁 Preview</h3>
 <div style="text-align: center;">
   <img src="./DiceViewCode/Assets.xcassets/SplashReadme.imageset/SplashReadme.png" alt="Splash app readme" width="250px" height="490px"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./DiceViewCode/Assets.xcassets/AppReadme.imageset/AppReadme.png" alt="App image readme" width="250px" height="500px"/>
 </div>
 
